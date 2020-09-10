@@ -2,8 +2,8 @@
 
 I am BENZARA TAHAR Benlahcene, people call me Lahcen, currently I am working as a software Engineer @  [RedFabriQ](https://redfabriq.com/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/belahcen-benzara-tahar/)](https://www.linkedin.com/in/belahcen-benzara-tahar/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:benzara.tahar@gmail.com)](mailto:benzara.tahar@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-benzara.tahar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/belahcen-benzara-tahar/)](https://www.linkedin.com/in/belahcen-benzara-tahar/)
+[![Gmail Badge](https://img.shields.io/badge/benzara.tahar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:benzara.tahar@gmail.com)](mailto:benzara.tahar@gmail.com)
 
 ## ⚡ Technologies
 
