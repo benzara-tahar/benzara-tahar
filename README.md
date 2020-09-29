@@ -7,12 +7,14 @@ I am BENZARA TAHAR Benlahcene, people call me Lahcen, currently I am working as 
 
 ## ⚡ Technologies
 
+![.NET](https://img.shields.io/badge/-dotnet-00599C?style=flat-square&logo=dotnet)
+![C#](https://img.shields.io/badge/-C#-00599C?style=flat-square&logo=csharp)
+![Asp.net Core](https://img.shields.io/badge/-Asp?style=flat-square&logo=asp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)
 ![AngularJs](https://img.shields.io/badge/-AngularJs-black?style=flat-square&logo=AngularJs)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C#](https://img.shields.io/badge/-C#-00599C?style=flat-square&logo=c)
+![Ionic](https://img.shields.io/badge/-Ionic-black?style=flat-square&logo=Ionic)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -20,7 +22,7 @@ I am BENZARA TAHAR Benlahcene, people call me Lahcen, currently I am working as 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-![Asp.net Core](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=AspnetCore)
+![WPF](https://img.shields.io/badge/-wpf-00599C?style=flat-square&logo=WPF)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
