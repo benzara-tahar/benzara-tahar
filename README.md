@@ -1,6 +1,27 @@
 ## Fancy seeing you here!
 
-I am BENZARA TAHAR Benlahcene, people call me Lahcen, currently I am working as a software Engineer @  [RedFabriQ](https://redfabriq.com/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+Hi there 🖐, Glad you're here, I am: 
+Husband And Father🙋‍♂️
+C# / .Net Developer 🚀 |  🧡Angular | 🧡 Typescript | lot of ☕☕
+Tranveller ✈
+Chess player 1.E4 ♟️
+
+Technical  Skills  💻 :
+  ⚡ASP.NET Core
+  ⚡Microservices, Dapr, Tye, RabbitMQ
+  ⚡Azure Functions,  IoTHub
+  ⚡SQL Server, My Sql, Sql Lite, MongoDb
+  ⚡Entity Framework Core
+  ⚡ Idenity Server4
+  ⚡ WPF, Xaml
+  ⚡ C#
+  ⚡ IoC, MVVM, UOW, Repository
+  ⚡ Unit testing, Intergation Testing
+  ⚡ Bootstrap
+  ⚡ Angular 10+
+  ⚡ TypeScript, Javascript
+  ⚡ Html, Css, Sass 
+  ⚡ Git
 
 [![Linkedin Badge](https://img.shields.io/badge/-benzara.tahar-blue?style=?style=flat-square&logo=appveyor&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/belahcen-benzara-tahar/)](https://www.linkedin.com/in/belahcen-benzara-tahar/)
 [![Gmail Badge](https://img.shields.io/badge/benzara.tahar@gmail.com-c14438?style=?style=flat-square&logo=appveyor&logo=Gmail&logoColor=white&link=mailto:benzara.tahar@gmail.com)](mailto:benzara.tahar@gmail.com)
