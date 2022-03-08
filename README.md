@@ -3,8 +3,9 @@
 Hi there 🖐, Glad you're here, I am: 
  -  Husband And Father🙋‍♂️
  -  C# / .Net Developer 🚀 |  🧡Angular | 🧡 Typescript | lot of ☕☕
- -  Tranveller ✈
+ -  Tranveler ✈
  -  Chess player 1.E4 ♟️
+ -  Currently doing cool stuff with svelte(kit)
 
 **Technical  Skills  💻 :**
   - ⚡ASP.NET Core
@@ -18,14 +19,14 @@ Hi there 🖐, Glad you're here, I am:
   - ⚡ IoC, MVVM, UOW, Repository
   - ⚡ Unit testing, Intergation Testing
   - ⚡ Bootstrap
-  - ⚡ Angular 10+
+  - ⚡ Angular
   - ⚡ TypeScript, Javascript
   - ⚡ Html, Css, Sass 
   - ⚡ Git
 
 [![Linkedin Badge](https://img.shields.io/badge/-benzara.tahar-blue?style=?style=flat-square&logo=appveyor&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/belahcen-benzara-tahar/)](https://www.linkedin.com/in/belahcen-benzara-tahar/)
 [![Gmail Badge](https://img.shields.io/badge/benzara.tahar@gmail.com-c14438?style=?style=flat-square&logo=appveyor&logo=Gmail&logoColor=white&link=mailto:benzara.tahar@gmail.com)](mailto:benzara.tahar@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-benzara.tahar-blue?style=?style=flat-square&logo=appveyor&logo=Twitter&logoColor=white&link=https://twitter.com/BenzaraTahar/)](https://twitter.com/BenzaraTahar)
+[![Twitter Badge](https://img.shields.io/twitter/follow/BenzaraTahar?style=social)](https://twitter.com/BenzaraTahar)
 
 ## ⚡ Technologies
 
