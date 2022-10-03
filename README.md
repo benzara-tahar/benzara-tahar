@@ -3,7 +3,7 @@
 Hi there 🖐, Glad you're here, I am: 
  -  Husband And Father🙋‍♂️
  -  C# / .Net Developer 🚀 |  🧡Angular | 🧡 Typescript | lot of ☕☕
- -  Tranveler ✈
+ -  Traveler ✈
  -  Chess player 1.E4 ♟️
  -  Currently doing cool stuff with svelte(kit)
 
